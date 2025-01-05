@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Atharva
 - 👀 I’m interested in Fullstack Development
 - 📫 How to reach me Email:- atharvan210@gmail.com
-# Project Title
+# Technologies 
 
-This project is built using the following technologies:
 
-| Technology                        
+                     
 |--------------------|-----------------------------------------|------|
 | **HTML**          | Markup language for structuring web pages. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 | **CSS**           | Style sheet language for web page design. | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
